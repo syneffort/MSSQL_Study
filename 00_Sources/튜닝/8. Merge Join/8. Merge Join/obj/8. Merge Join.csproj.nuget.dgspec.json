@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Development\\Repos\\SQL\\MSSQL_Study\\00_Sources\\튜닝\\7. Nested Loop Join\\TestConsole\\TestConsole.csproj": {}
+    "D:\\Development\\Repos\\SQL\\MSSQL_Study\\00_Sources\\튜닝\\8. Merge Join\\8. Merge Join\\8. Merge Join.csproj": {}
   },
   "projects": {
-    "D:\\Development\\Repos\\SQL\\MSSQL_Study\\00_Sources\\튜닝\\7. Nested Loop Join\\TestConsole\\TestConsole.csproj": {
+    "D:\\Development\\Repos\\SQL\\MSSQL_Study\\00_Sources\\튜닝\\8. Merge Join\\8. Merge Join\\8. Merge Join.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Development\\Repos\\SQL\\MSSQL_Study\\00_Sources\\튜닝\\7. Nested Loop Join\\TestConsole\\TestConsole.csproj",
-        "projectName": "TestConsole",
-        "projectPath": "D:\\Development\\Repos\\SQL\\MSSQL_Study\\00_Sources\\튜닝\\7. Nested Loop Join\\TestConsole\\TestConsole.csproj",
+        "projectUniqueName": "D:\\Development\\Repos\\SQL\\MSSQL_Study\\00_Sources\\튜닝\\8. Merge Join\\8. Merge Join\\8. Merge Join.csproj",
+        "projectName": "8. Merge Join",
+        "projectPath": "D:\\Development\\Repos\\SQL\\MSSQL_Study\\00_Sources\\튜닝\\8. Merge Join\\8. Merge Join\\8. Merge Join.csproj",
         "packagesPath": "C:\\Users\\synef\\.nuget\\packages\\",
-        "outputPath": "D:\\Development\\Repos\\SQL\\MSSQL_Study\\00_Sources\\튜닝\\7. Nested Loop Join\\TestConsole\\obj\\",
+        "outputPath": "D:\\Development\\Repos\\SQL\\MSSQL_Study\\00_Sources\\튜닝\\8. Merge Join\\8. Merge Join\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\synef\\AppData\\Roaming\\NuGet\\NuGet.Config",

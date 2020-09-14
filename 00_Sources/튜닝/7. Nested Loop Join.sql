@@ -36,3 +36,9 @@ FROM players AS p
 	INNER JOIN salaries AS s
 	ON p.playerID = s.playerID
 	OPTION(FORCE ORDER, LOOP JOIN);
+
+-- 오늘의 결론
+-- NL 특징
+-- 먼저 액세스한 OUTER 테이블의 로우를 차례대로 스캔 -> INNER 테이블 랜덤 액세스
+-- INNER 테이블에 인덱스가 없다면 노답
+-- 부분범위 처리에 좋다 (ex. Top 5 ...)
